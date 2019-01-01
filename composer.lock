@@ -2122,16 +2122,16 @@
         },
         {
             "name": "revolution/salvager",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kawax/salvager.git",
-                "reference": "94708b8093a3b2612f73a3e8da4a083886e3dcfd"
+                "reference": "d709ce7b6516d17cad8cf524f38e57a894af4664"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kawax/salvager/zipball/94708b8093a3b2612f73a3e8da4a083886e3dcfd",
-                "reference": "94708b8093a3b2612f73a3e8da4a083886e3dcfd",
+                "url": "https://api.github.com/repos/kawax/salvager/zipball/d709ce7b6516d17cad8cf524f38e57a894af4664",
+                "reference": "d709ce7b6516d17cad8cf524f38e57a894af4664",
                 "shasum": ""
             },
             "require": {
@@ -2177,7 +2177,7 @@
                 "dusk",
                 "laravel"
             ],
-            "time": "2019-01-01T04:21:51+00:00"
+            "time": "2019-01-01T06:27:58+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
