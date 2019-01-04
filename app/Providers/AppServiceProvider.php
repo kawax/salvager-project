@@ -5,7 +5,7 @@ namespace App\Providers;
 use Illuminate\Support\ServiceProvider;
 
 use Revolution\Salvager\Contracts\Driver;
-use Revolution\Salvager\Drivers\Chrome;
+use Revolution\Salvager\Drivers\Selenium\FireFox;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -30,7 +30,7 @@ class AppServiceProvider extends ServiceProvider
          * Custom Driver
          */
         //        $this->app->singleton(Driver::class, function ($app) {
-        //            return new Chrome(config('salvager.chrome'));
+        //            return new FireFox();
         //        });
     }
 }

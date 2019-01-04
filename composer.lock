@@ -2122,16 +2122,16 @@
         },
         {
             "name": "revolution/salvager",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kawax/salvager.git",
-                "reference": "d709ce7b6516d17cad8cf524f38e57a894af4664"
+                "reference": "b84a0a8b189c55a6b19858ea00077be4d546ebe4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kawax/salvager/zipball/d709ce7b6516d17cad8cf524f38e57a894af4664",
-                "reference": "d709ce7b6516d17cad8cf524f38e57a894af4664",
+                "url": "https://api.github.com/repos/kawax/salvager/zipball/b84a0a8b189c55a6b19858ea00077be4d546ebe4",
+                "reference": "b84a0a8b189c55a6b19858ea00077be4d546ebe4",
                 "shasum": ""
             },
             "require": {
@@ -2177,7 +2177,7 @@
                 "dusk",
                 "laravel"
             ],
-            "time": "2019-01-01T06:27:58+00:00"
+            "time": "2019-01-03T13:11:38+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -3292,16 +3292,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v2.5.1",
+            "version": "v2.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e"
+                "reference": "cfd5dc225767ca154853752abc93aeec040fcf36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
-                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/cfd5dc225767ca154853752abc93aeec040fcf36",
+                "reference": "cfd5dc225767ca154853752abc93aeec040fcf36",
                 "shasum": ""
             },
             "require": {
@@ -3338,7 +3338,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2018-07-29T20:33:41+00:00"
+            "time": "2018-10-30T17:29:25+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",
